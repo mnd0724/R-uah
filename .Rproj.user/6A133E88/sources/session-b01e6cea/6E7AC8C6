@@ -3,7 +3,7 @@
     "path": "~/GitHub/R-uah/trabajo1.qmd",
     "project_path": "trabajo1.qmd",
     "type": "quarto_markdown",
-    "hash": "1550185324",
+    "hash": "2921155075",
     "contents": "",
     "dirty": false,
     "created": 1710878024958.0,
@@ -17,16 +17,17 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "8,0",
+        "cursorPosition": "12,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "250:196.36363220214844"
+        "rmdVisualModeLocation": "270:215.15150451660156",
+        "ignored_words": "Trabajo\n"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710878590,
+    "lastKnownWriteTime": 1710879121,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710878590996,
+    "last_content_update": 1710879121355,
     "read_only": false,
     "read_only_alternatives": []
 }

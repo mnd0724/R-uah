@@ -82,6 +82,45 @@
             "title-short": "The paradox of inequality",
             "type": "article-journal",
             "volume": "19"
+        },
+        {
+            "DOI": "10.4067/S0250-71612010000300004",
+            "ISSN": "0250-7161",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        23
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Reyes Päcke",
+                    "given": "Sonia"
+                },
+                {
+                    "family": "Figueroa Aldunce",
+                    "given": "Isabel Margarita"
+                }
+            ],
+            "container-title": "EURE (Santiago)",
+            "id": "reyespackeDistribucionSuperficieAccesibilidad2010",
+            "issue": "109",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        12
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "89-110",
+            "title": "Distribución, superficie y accesibilidad de las Áreas verdes en Santiago de Chile",
+            "type": "article-journal",
+            "volume": "36"
         }
     ],
     "project_biblios": []

@@ -97,6 +97,46 @@
         },
         {
             "DOI": "10.3390/su6095876",
+            "ISSN": "2071-1050",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        26
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Aquino",
+                    "given": "Felipe"
+                },
+                {
+                    "family": "Gainza",
+                    "given": "Xabier"
+                }
+            ],
+            "container-title": "Sustainability",
+            "id": "aquinoUnderstandingDensityUneven2014",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014,
+                        9
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "5876-5897",
+            "title": "Understanding Density in an Uneven City, Santiago de Chile: Implications for Social and Environmental Sustainability",
+            "title-short": "Understanding Density in an Uneven City, Santiago de Chile",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.3390/su6095876",
             "abstract": "Efforts to promote infill development and to raise densities are growing in many cities around the world as a way to encourage urban sustainability. However, in cities polarized along socio-economic lines, the benefits of densification are not so evident. The aim of this paper is to discuss some of the contradictions of densification in Santiago de Chile, a city characterized by socio-spatial disparities. To that end, we first use regression analysis to explain differences in density rates within the city. The regression analysis shows that dwelling density depends on the distance from the city center, socioeconomic conditions, and the availability of urban attributes in the area. After understanding the density profile, we discuss the implications for travel and the distribution of social infrastructures and the environmental services provided by green areas. While, at the metropolitan scale, densification may favor a more sustainable travel pattern, it should be achieved by balancing density rates and addressing spatial differences in the provision of social services and environmental amenities. We believe a metropolitan approach is essential to correct these spatial imbalances and to promote a more sustainable and socially cohesive growth pattern.",
             "annote": "MAG ID: 2016756262",
             "author": [
@@ -178,6 +218,57 @@
             "title-short": "Segregación residencial en las principales ciudades chilenas",
             "type": "article-journal",
             "volume": "27"
+        },
+        {
+            "DOI": "10.4067/S0034-98872022000801095",
+            "ISSN": "0034-9887",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        26
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Guarda-Saavedra",
+                    "given": "Paula"
+                },
+                {
+                    "family": "Muñoz-Quezada",
+                    "given": "María Teresa"
+                },
+                {
+                    "family": "Cortinez-O’ryan",
+                    "given": "Andrea"
+                },
+                {
+                    "family": "Aguilar-Farías",
+                    "given": "Nicolás"
+                },
+                {
+                    "family": "Vargas-Gaete",
+                    "given": "Rodrigo"
+                }
+            ],
+            "container-title": "Revista médica de Chile",
+            "id": "guarda-saavedraBeneficiosEspaciosVerdes2022",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        8
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1095-1107",
+            "title": "Beneficios de los espacios verdes y actividad física en el bienestar y salud de las personas",
+            "type": "article-journal",
+            "volume": "150"
         },
         {
             "DOI": "10.1016/j.jpubeco.2012.10.009",

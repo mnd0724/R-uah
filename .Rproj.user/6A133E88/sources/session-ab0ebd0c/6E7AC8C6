@@ -3,7 +3,7 @@
     "path": "~/GitHub/R-uah/trabajo1.qmd",
     "project_path": "trabajo1.qmd",
     "type": "quarto_markdown",
-    "hash": "749430435",
+    "hash": "3655277787",
     "contents": "",
     "dirty": false,
     "created": 1710878024958.0,
@@ -19,16 +19,16 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "10,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "1840:510.9090576171875",
+        "rmdVisualModeLocation": "3708:736.3635864257812",
         "ignored_words": "Trabajo,Introducción\n",
         "docOutlineSize": "106"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711370076,
+    "lastKnownWriteTime": 1711414670,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711370076831,
+    "last_content_update": 1711414670281,
     "read_only": false,
     "read_only_alternatives": []
 }
